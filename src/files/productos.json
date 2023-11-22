@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Manzana",
+		"description": "Una Dulce Manzana",
+		"price": "$20",
+		"thumbnail": "url",
+		"code": "1435",
+		"stock": "100",
+		"id": 1
+	},
+	{
+		"title": "Pera",
+		"description": "Una Jugoza Pera",
+		"price": "$25",
+		"thumbnail": "url",
+		"code": "1436",
+		"stock": "50",
+		"id": 2
+	},
+	{
+		"title": "Banana",
+		"description": "Una Rica Banana",
+		"price": "$15",
+		"thumbnail": "url",
+		"code": "1437",
+		"stock": "35",
+		"id": 3
+	}
+	
+]
